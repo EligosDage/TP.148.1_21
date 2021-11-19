@@ -7,7 +7,7 @@ package pkg148.pkg1;
 
 /**
  *
- * @author 18657
+ * @author Master
  */
 public class Main {
 
