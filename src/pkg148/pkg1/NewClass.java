@@ -7,7 +7,7 @@
 package pkg148.pkg1;
 
 /**
- *
+ *smth new
  * @author 18657
  */
 public class NewClass {
